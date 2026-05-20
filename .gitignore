@@ -1,0 +1,22 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+.spaza_stream_
+venv/
+.env
+
+# Data and audio uploads
+uploads/
+*.wav
+*.mp3
+*.m4a
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/

@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+openai-whisper
+openai
+supabase
+python-dotenv
+streamlit
+pandas
+python-multipart
+httpx
